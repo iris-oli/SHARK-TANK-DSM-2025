@@ -13,7 +13,7 @@ Try...Catch: Implementamos o tratamento de erros com try...catch para garantir m
 
 Integrantes
 
-A atualização contou com a contribuição de um time talentoso:
+A atualização contou com a contribuição de um time:
 
 Beatriz Prates
 

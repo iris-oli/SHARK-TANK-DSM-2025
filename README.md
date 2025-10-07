@@ -1,4 +1,4 @@
-Versão 2 - Branch2
+Versão 1 - Branch1
 Atualização do Projeto
 
 Nesta versão, concluímos a dinâmica imersiva em laboratório com foco em aprendizado ágil. A atividade envolveu a integração com API e a criação de uma roleta interativa, permitindo que aplicássemos na prática conceitos importantes de programação.
